@@ -1,0 +1,30 @@
+---------------
+Project Credits
+---------------
+Project Manager:
+	-Buvanraj S
+
+Lead Developer: 
+	-Buvanraj S
+
+Project Description:
+
+BusBooking:
+The Bus Booking System is a Java-based application designed for 
+managing and organizing bus information, including functionalities for adding, 
+removing, and displaying details of both AC and non-AC buses. 
+It operates through a console interface, providing straightforward interaction 
+for efficient bus management.
+
+Technologies Used:
+	Java Programming Language
+	Eclipse
+
+	Serialization (ObjectInputStream, ObjectOutputStream)
+	File Handling (java.io package)
+	Collections Framework (ArrayList)
+	Exception Handling (try-catch blocks)
+	Object-Oriented Programming (OOP) Principles
+
+Contact Information:
+	Email-bhuvanraj162@gmail.com, Call-7200611340
