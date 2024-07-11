@@ -1,0 +1,1 @@
+BusBooking is a Java-based application designed to facilitate the booking and management of bus tickets. This application provides a user-friendly interface for customers to book tickets, view available buses, and manage their reservations. Administrators can manage bus schedules, view bookings, and generate reports.
